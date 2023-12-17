@@ -111,9 +111,9 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2021-02-10'
+          date_start: '2020-11-01'
           description: Awarded in grade 12 for standing in the top 0.1% students nationally in Math, Physics, and CS subjects
-          icon: edx
+          icon: CBSE-Black
           organization: Central Board of Secondary Education
           organization_url: https://www.cbse.gov.in/
           title: CBSE Merit Certificate (Grade 12)
@@ -122,7 +122,7 @@ sections:
           date_end: ''
           date_start: '2018-11-01'
           description: Awarded in grade 10 for standing in the top 0.1% students nationally in Science subject
-          icon: ''
+          icon: CBSE-Black
           organization: Central Board of Secondary Education
           organization_url: https://www.cbse.gov.in/
           title: CBSE Merit Certificate (Grade 10)
