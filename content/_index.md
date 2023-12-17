@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   - block: experience
     content:
       title: Experience
@@ -75,14 +75,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Research Intern
+          company: Global Internship Program in Engineering Design and Innovation, IIT Delhi
+          company_url: 'https://sites.google.com/site/gipediinterns/'
+          company_logo: IITDlogo
+          location: New Delhi
+          date_start: '2022-05-15'
+          date_end: '2023-05-1'
+          description: Implementation of Contour Tracing Algorithms on an FPGA board
     design:
       columns: '2'
   - block: accomplishments
