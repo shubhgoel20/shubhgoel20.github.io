@@ -72,8 +72,8 @@ sections:
           description: ELL101, Introduction to Electrical Engineering
         - title: Quantitative Researcher Intern
           company: JP Morgan Chase and Co.
-          company_url: ''
-          company_logo: org-gc
+          company_url: 'https://www.jpmorgan.com/IN/en/about-us'
+          company_logo: JP Morgan
           location: Mumbai
           date_start: '2023-05-15'
           date_end: '2023-07-07'
