@@ -13,11 +13,11 @@ external_link: ''
 #   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: 'https://github.com/shubhgoel20/COL333_Artificial_Intelligence/tree/main/A5'
+    name: Code
+    url: https://github.com/shubhgoel20/COL333_Artificial_Intelligence/tree/main/A5
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
