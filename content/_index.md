@@ -62,24 +62,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Undergraduate Teaching Assistant
+          company: IIT Delhi
+          company_url: 'https://home.iitd.ac.in'
+          company_logo: IITDlogo.png
+          location: New Delhi
+          date_start: '2023-08-01'
+          date_end: '2023-11-30'
+          description: ELL101, Introduction to Electrical Engineering
+        - title: Quantitative Researcher Intern
+          company: JP Morgan Chase and Co.
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          location: Mumbai
+          date_start: '2023-05-15'
+          date_end: '2023-07-07'
         - title: Research Intern
           company: Global Internship Program in Engineering Design and Innovation, IIT Delhi
           company_url: 'https://sites.google.com/site/gipediinterns/'
-          # company_logo: C:\Shubh\webpage\shubhgoel20.github.io\assets\media\icons\brands\IITDlogo.png
-          location: New Delhi
+          company_logo: IITDlogo.png
+          location: Remote
           date_start: '2022-05-15'
           date_end: '2023-05-01'
           description: Implementation of Contour Tracing Algorithms on an FPGA board
