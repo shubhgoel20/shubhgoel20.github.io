@@ -20,13 +20,13 @@ publication_types: ["article"]
 publication: "IEEE Sensors Journal"
 publication_short: ""
 
-abstract: — Contour tracing is a critical technique in image analysis and computer vision, with applications in medical imaging, big data analytics, machine learning, and robotics. We introduce a novel hardware accelerator based on the Adapted and Segmented (AnS) fast contour tracing algorithms implemented on the Zynq-7000 FPGA platform. Our algorithmic implementation utilizing a mesh-interconnected multiprocessor architecture is at least 55 times faster than the existing implementations. With input-output overheads, it is up to 12.5 times faster. Our hardware accelerator for contour tracing is, thus, faster for FPGA, ASIC, GPU, and supercomputer hardware in comparison to the CPU-GPU collaborative approach and offers a better solution for those systems where the input-output overheads can be minimized, like parallel processing arrays, and mesh-connected sensor networks.
+abstract: Contour tracing is a critical technique in image analysis and computer vision, with applications in medical imaging, big data analytics, machine learning, and robotics. We introduce a novel hardware accelerator based on the Adapted and Segmented (AnS) fast contour tracing algorithms implemented on the Zynq-7000 FPGA platform. Our algorithmic implementation utilizing a mesh-interconnected multiprocessor architecture is at least 55 times faster than the existing implementations. With input-output overheads, it is up to 12.5 times faster. Our hardware accelerator for contour tracing is, thus, faster for FPGA, ASIC, GPU, and supercomputer hardware in comparison to the CPU-GPU collaborative approach and offers a better solution for those systems where the input-output overheads can be minimized, like parallel processing arrays, and mesh-connected sensor networks.
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: true
 
 # links:
