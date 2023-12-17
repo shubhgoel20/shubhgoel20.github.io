@@ -1,6 +1,6 @@
 ---
 title: Sports Complex Planning
-summary: ''
+summary: 'Optimized sports zone allocation using various search algorithms'
 tags:
   - Artificial Intelligence
 date: '2023-08-01'

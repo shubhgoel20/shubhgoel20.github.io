@@ -1,6 +1,6 @@
 ---
 title: Medical Diagnosis
-summary: ''
+summary: 'Implemented EM algorithm to learn Bayesian Network parameters'
 tags:
   - Artificial Intelligence
 date: '2023-10-01'
