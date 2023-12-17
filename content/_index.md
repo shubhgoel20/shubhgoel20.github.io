@@ -78,7 +78,7 @@ sections:
         - title: Research Intern
           company: Global Internship Program in Engineering Design and Innovation, IIT Delhi
           company_url: 'https://sites.google.com/site/gipediinterns/'
-          company_logo: ''
+          company_logo: org-gc
           location: New Delhi
           date_start: '2022-05-15'
           date_end: '2023-05-1'
