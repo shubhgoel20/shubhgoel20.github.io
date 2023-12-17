@@ -77,6 +77,7 @@ sections:
           location: Mumbai
           date_start: '2023-05-15'
           date_end: '2023-07-07'
+          description: IMM Back-testing Failure Analysis and Remediation
         - title: Research Intern
           company: Global Internship Program in Engineering Design and Innovation, IIT Delhi
           company_url: 'https://sites.google.com/site/gipediinterns/'
