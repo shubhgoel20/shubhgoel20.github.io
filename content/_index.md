@@ -75,14 +75,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        # - title: Research Intern
-        #   company: Global Internship Program in Engineering Design and Innovation, IIT Delhi
-        #   company_url: 'https://sites.google.com/site/gipediinterns/'
-        #   company_logo: org-gc
-        #   location: New Delhi
-        #   date_start: '2022-05-15'
-        #   date_end: '2023-05-1'
-        #   description: Implementation of Contour Tracing Algorithms on an FPGA board
+        - title: Research Intern
+          company: Global Internship Program in Engineering Design and Innovation, IIT Delhi
+          company_url: 'https://sites.google.com/site/gipediinterns/'
+          # company_logo: C:\Shubh\webpage\shubhgoel20.github.io\assets\media\icons\brands\IITDlogo.png
+          location: New Delhi
+          date_start: '2022-05-15'
+          date_end: '2023-05-01'
+          description: Implementation of Contour Tracing Algorithms on an FPGA board
     design:
       columns: '2'
   - block: accomplishments
