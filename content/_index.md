@@ -65,7 +65,7 @@ sections:
         - title: Undergraduate Teaching Assistant
           company: IIT Delhi
           company_url: 'https://home.iitd.ac.in'
-          company_logo: IITDlogo.png
+          company_logo: IITDlogo
           location: New Delhi
           date_start: '2023-08-01'
           date_end: '2023-11-30'
@@ -80,7 +80,7 @@ sections:
         - title: Research Intern
           company: Global Internship Program in Engineering Design and Innovation, IIT Delhi
           company_url: 'https://sites.google.com/site/gipediinterns/'
-          company_logo: IITDlogo.png
+          company_logo: IITDlogo
           location: Remote
           date_start: '2022-05-15'
           date_end: '2023-05-01'
