@@ -3,7 +3,7 @@ title: Rollerball
 summary: A Rollerball playing AI agent
 tags:
   - Artificial Intelligence
-date: ''
+date: '2023-11-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
