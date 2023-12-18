@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: colorful
+  theme_day: light
   theme_night: minimal
   font: sans-serif
   font_size: M
