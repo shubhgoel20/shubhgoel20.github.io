@@ -38,4 +38,4 @@ I initially created a basic MLP architecture and gradually enhanced its complexi
 1-D Convolution layers, LSTM layers, and ResNet-inspired skip connections. Our final model achieved
 an impressive Pearson Correlation Coefficient (PCC) of 0.933. Unlike some existing DL approaches, I
 used actual EEG data from lift and grasp tasks [2], avoiding synthetic noise and ensuring authentic signal representation. I utilized ICA using the EEGLAB toolbox in MATLAB to generate the necessary noisy
-EEG-clean EEG pairs for training. 
+EEG-clean EEG pairs for training.
