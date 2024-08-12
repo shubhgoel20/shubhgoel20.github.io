@@ -1,8 +1,8 @@
 ---
 title: State Estimation Using Kalman Filter
-# summary: 'An End-to-End Deep Learning model to remove artifacts from raw EEG signals'
+summary: 
 tags:
-  - Deep Learning
+  - Demo
 date: '2024-02-01'
 
 # Optional external URL for project (replaces project detail page).
@@ -30,5 +30,5 @@ url_video: ''
 slides: ''
 ---
 
--Developed a state estimation model using Kalman Filter to track the position and velocity of a plane, incorporating noisy measurements
--Applied the Extended Kalman Filter (EKF) algorithm to handle nonlinearities in the system, improving the accuracy in complex scenario
+- Developed a state estimation model using Kalman Filter to track the position and velocity of a plane, incorporating noisy measurements
+- Applied the Extended Kalman Filter (EKF) algorithm to handle nonlinearities in the system, improving the accuracy in complex scenario
