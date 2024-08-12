@@ -25,7 +25,7 @@ organizations:
     url: https://ethz.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence, Computer Vision and Deep Learning for Signal Processing.
+bio: My research interests include Embodied AI, Computer Vision and Deep Learning.
 
 # Interests to show in About widget
 interests:

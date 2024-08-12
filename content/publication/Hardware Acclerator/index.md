@@ -1,12 +1,12 @@
 ---
-title: "A Hardware Accelerator for Contour Tracing in Real-Time Imaging(Under Review)"
+title: "A Hardware Accelerator for Contour Tracing in Real-Time Imaging"
 authors:
 - Sonal Gupta
 - admin
 - Ayush Kumar
 - Subrat Kar
-date: "2023-11-18"
-doi: ""
+date: "2024-07-29"
+doi: "https://doi.org/10.1109/JSEN.2024.3432129"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -20,7 +20,7 @@ publication_types: ["article"]
 publication: "IEEE Sensors Journal"
 publication_short: ""
 
-abstract: Contour tracing is a critical technique in image analysis and computer vision, with applications in medical imaging, big data analytics, machine learning, and robotics. We introduce a novel hardware accelerator based on the Adapted and Segmented (AnS) fast contour tracing algorithms implemented on the Zynq-7000 FPGA platform. Our algorithmic implementation utilizing a mesh-interconnected multiprocessor architecture is at least 55 times faster than the existing implementations. With input-output overheads, it is up to 12.5 times faster. Our hardware accelerator for contour tracing is, thus, faster for FPGA, ASIC, GPU, and supercomputer hardware in comparison to the CPU-GPU collaborative approach and offers a better solution for those systems where the input-output overheads can be minimized, like parallel processing arrays, and mesh-connected sensor networks.
+abstract: Contour tracing is a critical technique in image analysis and computer vision, with applications in medical imaging, big data analytics, machine learning, and robotics. We introduce a novel hardware accelerator based on the Adapted and Segmented (AnS) Vertex Following and Run-Data-Based-Following families of fast contour tracing algorithms implemented on the Zynq-7000 FPGA platform. Our algorithmic implementation utilizing a mesh-interconnected multiprocessor architecture is at least 55 times faster than the existing implementations. With input-output overheads, it is up to 12.5 times faster. Our hardware accelerator for contour tracing is benchmarked on mesh-interconnected hardware, all three families of contour tracing algorithms, and a random image from the Imagenet database. Our implementation is, thus, faster for FPGA, ASIC, GPU, and supercomputer hardware in comparison to the CPU-GPU collaborative approach and offers a better solution for those systems where the input-output overheads can be minimized, like parallel processing arrays and mesh-connected sensor networks.
 
 # Summary. An optional shortened abstract.
 summary: ""
