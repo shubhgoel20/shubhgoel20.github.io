@@ -67,6 +67,14 @@ sections:
           company_url: 'https://home.iitd.ac.in'
           company_logo: IITDlogo
           location: New Delhi
+          date_start: '2024-01-01'
+          date_end: '2024-05-07'
+          description: COL100, Introduction to Computer Science
+        - title: Undergraduate Teaching Assistant
+          company: IIT Delhi
+          company_url: 'https://home.iitd.ac.in'
+          company_logo: IITDlogo
+          location: New Delhi
           date_start: '2023-08-01'
           date_end: '2023-11-30'
           description: ELL101, Introduction to Electrical Engineering
@@ -104,7 +112,7 @@ sections:
         - certificate_url: ''
           date_end: '2023-01-01'
           date_start: '2021-01-01'
-          description: For being among the top 7% (among 1200+ students) in the semesters 1, 2, 4 and 5
+          description: For being among the top 7% (among 1200+ students) in the semesters 1, 2, 4, 5 and 7
           icon: IITDlogo
           organization: IIT Delhi
           organization_url: https://home.iitd.ac.in
