@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Electrical Engineering
+role: Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Indian Institute of Technology Delhi
-    url: https://home.iitd.ac.in/
+  - name: ETH Zurich
+    url: https://ethz.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Artificial Intelligence, Computer Vision and Deep Learning for Signal Processing.
@@ -36,7 +36,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.Tech in Electrical Engineering
+    - course: MSc. in Computer Science
+      institution: ETH Zurich
+      year: 2024-2026
+    - course: B.Tech in Electrical Engineering (Minor in CS)
       institution: Indian Institute of Technology Delhi
       year: 2020-2024
     - course: Higher Secondary Education
@@ -120,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-I am Shubh Goel, a senior at IIT Delhi pursuing a major in Electrical Engineering with a minor in Computer Science.
+I am Shubh Goel, an MSc. CS student at ETH Zurich. I obtained my bachelor's degree from [Indian Institute of Technology Delhi](https://home.iitd.ac.in/), where I was supervised by [Prof. Seshan Srirangarajan](https://web.iitd.ac.in/~seshan/) for my bachelor's thesis.
 {style="text-align: justify;"}
