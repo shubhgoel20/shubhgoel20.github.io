@@ -2,7 +2,7 @@
 title: State Estimation Using Kalman Filter
 summary: Developed a state estimation model using Kalman Filter to track the position and velocity of a plane, incorporating noisy measurements
 tags:
-  - Demo
+  - Other
 date: '2024-02-01'
 
 # Optional external URL for project (replaces project detail page).
