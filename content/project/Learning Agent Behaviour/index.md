@@ -20,7 +20,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: './feature.mp4'
+url_video: 'uploads/feature.mp4'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
