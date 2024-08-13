@@ -19,7 +19,7 @@ links:
     url: https://github.com/shubhgoel20/COL778_Autonomous_Systems/tree/main/A4
  
 links:
-  - icon: :arrow_forward:
+  - icon: arrow_forward
     icon_pack: emoji
     name: Ant-v4
     url: 'uploads/ant.mp4'
