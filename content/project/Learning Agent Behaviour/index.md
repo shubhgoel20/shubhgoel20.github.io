@@ -22,11 +22,15 @@ links:
     icon_pack: fab
     name: Ant-v4
     url: 'uploads/ant.mp4'
+
+  - icon: youtube
+    icon_pack: fab
+    name: PandaPush-v3
+    url: 'uploads/feature.mp4'
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'uploads/feature.mp4'
-url_video: 'uploads/ant.mp4'
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
