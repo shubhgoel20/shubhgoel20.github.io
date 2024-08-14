@@ -8,9 +8,9 @@ date: '2024-04-01'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-# image: 
-#   caption: Plots of actual, observed and estimated trajectory
-#   focal_point: Smart
+image: 
+  caption:
+  focal_point: Smart
 
 links:
   - icon: github
