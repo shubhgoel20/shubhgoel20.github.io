@@ -2,7 +2,7 @@
 title: "MMA-Net: Multi-Modal Attention Network for 2-D Object Detection in Autonomous Driving"
 authors:
 - Abhilash Gaur*
-- admin*
+- "**Shubh Goel***"
 - Kanishk Goel*
 - Seshan Srirangarajan
 - Po-Hsuan Tseng
@@ -20,7 +20,7 @@ publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "2025 IEEE International Conference on Acoustics, Speech and Signal Processing"
-publication_short: "ICASSP"
+publication_short: "ICASSP 2025"
 
 abstract: Autonomous driving technology relies heavily on sensor data for environment perception. Heterogeneous sensors such as lidar, radar, and camera have their own strengths and limitations. Therefore, relying on any single sensor would restrict the effectiveness of autonomous driving technology. However, integrating data from such heterogeneous sensors poses challenges due to differences in their representations. This article outlines a deep learning network aimed at designing modality-agnostic multi-modal fusion architecture. We study sensor data from different modalities and learn fine-grained representations using modality-specific feature encoders independently. Then, a multimodal attention-based network (MMA-Net) is proposed to fuse the data from heterogeneous modalities. The proposed MMA-Net fuses multi-modal sensor data by jointly exploiting the inter-modality and intra-modality relationships among camera, lidar, and radar sensors. The effectiveness of the proposed multi-modal fusion architecture is demonstrated using 2-D object detection metrics through extensive experiments on a dataset generated using the CARLA simulator.
 
