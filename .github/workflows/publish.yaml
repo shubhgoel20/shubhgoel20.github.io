@@ -62,10 +62,10 @@ jobs:
       #     name: dummy-artifact
       #     path: README.md  # Or any small file present in your repo
 
-      # - name: Upload artifact
-      #   uses: actions/upload-pages-artifact@v4
-      #   with:
-      #     path: ./public
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./public
 
   # Deploy website to GitHub Pages hosting
   deploy:
