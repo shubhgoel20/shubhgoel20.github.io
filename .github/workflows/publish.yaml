@@ -56,11 +56,11 @@ jobs:
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      # - name: Dummy upload artifact step (to fix missing download info)
-      #   uses: actions/upload-artifact@v4
-      #   with:
-      #     name: dummy-artifact
-      #     path: README.md  # Or any small file present in your repo
+      - name: Dummy upload artifact step (to fix missing download info)
+        uses: actions/upload-artifact@v4
+        with:
+          name: dummy-artifact
+          path: README.md  # Or any small file present in your repo
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
