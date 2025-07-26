@@ -123,5 +123,7 @@ social:
 highlight_name: true
 ---
 
-I am Shubh Goel, an MSc. CS student at ETH Zurich. I obtained my bachelor's degree from [Indian Institute of Technology Delhi](https://home.iitd.ac.in/), where I was supervised by [Prof. Seshan Srirangarajan](https://web.iitd.ac.in/~seshan/) for my bachelor's thesis.
+I am a second year MSc. CS student at ETH Zurich. Currently, I am working with the [LAS group](https://las.inf.ethz.ch/), led by [Prof. Andreas Krause](https://las.inf.ethz.ch/krausea), on safe and guaranteed exploration by autonomous robots in environments with unknown constraints on IsaacSim simulator. Previously, I worked with the [CVG group](https://cvg.ethz.ch/) under [Prof. Marc Pollefeys](https://cvg.ethz.ch/team/Prof-Dr-Marc-Pollefeys), where I benchmarked state-of-the-art visual encoders on robotic manipulation evaluation suites.
+
+I obtained my bachelor's degree from [Indian Institute of Technology Delhi](https://home.iitd.ac.in/), where I was supervised by [Prof. Seshan Srirangarajan](https://web.iitd.ac.in/~seshan/) for my bachelor's thesis.
 {style="text-align: justify;"}
