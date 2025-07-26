@@ -2,7 +2,7 @@
 title: "MMA-Net: Multi-Modal Attention Network for 2-D Object Detection in Autonomous Driving"
 authors:
 - Abhilash Gaur*
-- __Shubh Goel*__
+- <strong>Shubh Goel*</strong>
 - Kanishk Goel*
 - Seshan Srirangarajan
 - Po-Hsuan Tseng
